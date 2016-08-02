@@ -1,6 +1,6 @@
 {
-    "BOT": "Hallo!\nIk ben de persoonlijke bot van Arno.\n![arno](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/005/09d/363/35c8d96.jpg)\nLeuke vent hè? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "BOT": "Hallo!\nIk ben de persoonlijke bot van Arno.\n![arno](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/005/09d/363/35c8d96.jpg)\nLeuke vent hè? %[Ja, een top vent!](reply:Yep)",
+    "HALLO": "Hey, Leuk om tegen je te kletsen! Wil je meer weten van Arno? %[Twitter](https://twitter.com/arnokNL)",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
