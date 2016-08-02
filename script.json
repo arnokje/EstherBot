@@ -1,8 +1,10 @@
 {
     "BOT": "Hallo!\nIk ben de persoonlijke bot van Arno.\n![arno](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/005/09d/363/35c8d96.jpg)\nLeuke vent hè? %[Ja, een top vent!](reply:Yep)",
     "HALLO": "Hey, Leuk om tegen je te kletsen! Wil je meer weten van Arno? %[Twitter](https://twitter.com/arnokNL) %[LinkedIN](https://www.linkedin.com/in/arnok)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "I LOVE YOU": "Awh, shucks! I love you too! %[Ik ook van jou!](reply:YouTOO)",
     "CONNECT ME": "",
+    "YouTOO": "Hou op joh",
+    "Ik ook van jou!": "Dusssss....",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "CHAMP": "Thanks, you are a champ too!"
 }
